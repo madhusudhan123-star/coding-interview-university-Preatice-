@@ -463,9 +463,10 @@ An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which 
 It uses a repetition system to help you remember. It's user-friendly, available on all platforms and has a cloud sync system. 
 It costs $25 on iOS but is free on other platforms.
 
-My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya)).
 Anki how to use instruction
 -[https://www.youtube.com/watch?v=vm4oooKANzU]
+
+My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya)).
 Some students have mentioned formatting issues with white space that can be fixed by doing the following: open deck, edit card, click cards, select the "styling" radio button, add the member "white-space: pre;" to the card class.
 
 ### 3. Do Coding Interview Questions While You're Learning
